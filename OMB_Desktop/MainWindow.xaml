@@ -107,5 +107,5 @@
         </TextBlock.Text>
       </TextBlock>
     </DockPanel>
-  </DockPanel>
+    </DockPanel>
 </Window>
