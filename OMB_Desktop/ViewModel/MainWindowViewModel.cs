@@ -1,7 +1,6 @@
 ﻿using System;
 using Entidades;
 using GalaSoft.MvvmLight;
-using OMB_Desktop.Common;
 using Prism.Interactivity.InteractionRequest;
 using System.Windows.Input;
 using GalaSoft.MvvmLight.CommandWpf;
